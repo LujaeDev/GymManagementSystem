@@ -7,3 +7,6 @@ Database MFC Project
 
 ## 데이터베이스 스키마 구조
 ![GymMana](https://github.com/LujaeDev/GymManagementSystem/assets/62204810/df56fdaf-ac8a-4527-9de1-d4d047e82c2d)
+
+## 문서
+프로젝트에 대한 보고서와 메뉴얼은 document폴더에서 확인하실 수 있습니다.
